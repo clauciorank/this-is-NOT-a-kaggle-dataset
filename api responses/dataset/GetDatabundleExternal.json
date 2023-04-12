@@ -1,0 +1,183 @@
+{
+    "dataSource": {
+        "type": "OBJECT_TYPE_DATA_SOURCE",
+        "key": "9begt8S8iunchnruyDie",
+        "path": "neuC7uwJAqo0Q8OYxoCT/versions/9begt8S8iunchnruyDie",
+        "legacyEntityId": 5284991,
+        "relativeUrl": "",
+        "name": "Cancer Data",
+        "description": "**570 cancer cells and 30 features to determine whether the cancer cells in our data are benign or malignant**\n\n**Our cancer data contains 2 types of cancers: 1. benign cancer (B) and 2. malignant cancer (M).**",
+        "databundle": {
+            "type": "OBJECT_TYPE_DATABUNDLE",
+            "key": "neuC7uwJAqo0Q8OYxoCT",
+            "path": "neuC7uwJAqo0Q8OYxoCT",
+            "legacyEntityId": 3074008,
+            "relativeUrl": "",
+            "name": "Cancer_Data",
+            "databundleInfo": {
+                "currentDatabundleVersionId": 5284991,
+                "databundleType": "DATABUNDLE_TYPE_DATASET",
+                "diffType": "VERSIONED",
+                "creationDate": "2023-03-22T07:57:00.058777300Z",
+                "creatorUserId": 2498226,
+                "currentGoodVersionKey": "9begt8S8iunchnruyDie",
+                "lastestVersionKey": "9begt8S8iunchnruyDie",
+                "versions": {
+                    "totalChildren": 1
+                }
+            },
+            "datasetInfo": {
+                "datasetId": 3032092,
+                "datasetSlug": "/datasets/erdemtaha/cancer-data"
+            }
+        },
+        "databundleVersion": {
+            "type": "OBJECT_TYPE_DATABUNDLE_VERSION",
+            "key": "9begt8S8iunchnruyDie",
+            "path": "neuC7uwJAqo0Q8OYxoCT/versions/9begt8S8iunchnruyDie",
+            "legacyEntityId": 5284991,
+            "relativeUrl": "",
+            "name": "Version 1",
+            "description": "Initial release",
+            "databundleVersionInfo": {
+                "versionNumber": 1,
+                "versionNotes": "Initial release",
+                "creatorUserId": 2498226,
+                "creationDate": "2023-03-22T07:57:00.058780500Z",
+                "databundleVersionType": "FILESET"
+            },
+            "datasetVersionInfo": {
+                "datasetVersionId": 5212576
+            },
+            "statusInfo": {
+                "status": "DATABUNDLE_STATUS_READY",
+                "statusMessage": "Ready",
+                "percentageCompleted": 1
+            },
+            "exceptionInfo": {},
+            "filesetInfo": {
+                "totalSize": 125204,
+                "directories": {},
+                "files": {
+                    "totalChildren": 1,
+                    "count": 1,
+                    "children": [
+                        {
+                            "type": "OBJECT_TYPE_FILE",
+                            "key": "Cancer_Data.csv",
+                            "path": "neuC7uwJAqo0Q8OYxoCT/versions/9begt8S8iunchnruyDie/files/Cancer_Data.csv",
+                            "legacyEntityId": 0,
+                            "relativeUrl": "Cancer_Data.csv",
+                            "name": "Cancer_Data.csv",
+                            "description": "A data set indicating whether a cancer is benign or malignant according to its individual characteristics\n\n#### Cancer Types:\n\n***1. Benign cancer (B)***\n\n***2. Malignant cancer (M)***",
+                            "fileInfo": {
+                                "size": 125204,
+                                "fullPath": "Cancer_Data.csv",
+                                "fileExtension": ".csv",
+                                "contentType": "text/csv",
+                                "contentMd5": "YWXZC4cIuxwd0UJFzGvvRg==",
+                                "gcsUrl": "",
+                                "gcsCompressedUrl": ""
+                            },
+                            "fileTableInfo": {
+                                "includesHeader": true,
+                                "delimiter": ","
+                            },
+                            "tableInfo": {
+                                "totalColumns": 32,
+                                "totalRows": 569,
+                                "tableColumns": {
+                                    "totalChildren": 32
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "bundleCompressionInfo": {
+                "filename": "archive.zip",
+                "fileExtension": ".zip",
+                "fileSize": 49810,
+                "contentEncoding": "application/zip",
+                "contentMd5": "UPamQTUAGO/\u002BmMEO6nPD8Q==",
+                "archiveGcsUrl": "",
+                "creationPercentComplete": 0
+            },
+            "storageInfo": {
+                "uploadDataLocation": {
+                    "bucket": "",
+                    "path": ""
+                },
+                "rawDataLocation": {
+                    "bucket": "",
+                    "path": ""
+                },
+                "individualCompressedLocation": {
+                    "bucket": "",
+                    "path": ""
+                },
+                "bundleArchiveLocation": {
+                    "bucket": "",
+                    "path": ""
+                },
+                "fileSystemLocation": {
+                    "bucket": "",
+                    "path": ""
+                }
+            },
+            "fileSummaryInfo": {
+                "totalFileCount": 1,
+                "fileTypes": [
+                    {
+                        "extension": ".csv",
+                        "fileCount": 1,
+                        "totalSize": 125204
+                    }
+                ],
+                "sampleFileNames": [
+                    "Cancer_Data.csv"
+                ]
+            },
+            "columnSummaryInfo": {
+                "totalColumnCount": 32,
+                "columnTypes": [
+                    {
+                        "columnType": "Decimal",
+                        "columnCount": 30,
+                        "rowCount": 17070
+                    },
+                    {
+                        "columnType": "String",
+                        "columnCount": 1,
+                        "rowCount": 569
+                    },
+                    {
+                        "columnType": "Id",
+                        "columnCount": 1,
+                        "rowCount": 569
+                    }
+                ],
+                "sampleColumnNames": [
+                    "concave points_mean",
+                    "concavity_mean",
+                    "compactness_mean",
+                    "smoothness_mean",
+                    "area_mean",
+                    "perimeter_mean",
+                    "texture_mean",
+                    "radius_mean",
+                    "diagnosis",
+                    "id"
+                ]
+            }
+        },
+        "imageUrl": "https://storage.googleapis.com/kaggle-datasets-images/3032092/5212576/69196f95972506ae66da827386432a26/dataset-thumbnail.jpg?t=2023-03-23-10-05-44",
+        "sourceUrl": "/datasets/erdemtaha/cancer-data",
+        "slug": "cancer-data",
+        "lastUpdated": "2023-03-22T07:57:00.013Z",
+        "subtitle": "Benign and malignant cancer data",
+        "sourceType": "DATA_SOURCE_TYPE_DATASET",
+        "sourceId": 3032092,
+        "versionNumber": 1
+    }
+}

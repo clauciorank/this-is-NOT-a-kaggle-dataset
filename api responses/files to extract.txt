@@ -1,0 +1,73 @@
+SearchDatasets Info
+
+datasetId
+datasetSlug
+datasetUrl
+ownerName
+ownerUserId
+dateCreated
+dateUpdated
+datasource.title
+
+## Tabela categories
+Id
+Name
+datasetId
+
+
+GetDataBundleExternal
+
+dataSource.datasetInfo.datasetId
+dataSource.Description
+filesetInfo.totalSize
+
+# Tabela Children dataset
+dataSource.datasetInfo.datasetId
+filesetInfo.totalSize.children
+filesetInfo.totalSize.children.description
+filesetInfo.totalSize.children.fileInfo.size
+fileExtension
+tableInfo.totalColumns
+tableInfo.totalRows
+
+
+GetDatasetActivity
+summaryStats.datasetId
+datasetStats.name.Views
+datasetStats.name.Downloads
+datasetStats.name.Download per view ratio
+datasetStats.name.Total unique contributors
+kernelStats.notebooks
+
+## Timeseries download
+datasetId
+Date
+count
+
+## Timeseries Views
+datasetId
+Date
+Count
+
+GetDatasetUsabilityRating
+
+    "rating": {
+        "score": 1,
+        "columnDescriptionScore": 1,
+        "coverImageScore": 1,
+        "fileDescriptionScore": 1,
+        "fileFormatScore": 1,
+        "licenseScore": 1,
+        "overviewScore": 1,
+        "provenanceScore": 1,
+        "publicKernelScore": 1,
+        "subtitleScore": 1,
+        "tagScore": 1,
+        "updateFrequencyScore": 1
+    }
+
+GetDatasetMetadata
+
+datasetId
+licenseId
+expectedUpdateFrequency.updateFrequency

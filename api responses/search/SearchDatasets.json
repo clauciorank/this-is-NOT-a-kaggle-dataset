@@ -1,0 +1,1284 @@
+{
+    "datasetList": {
+        "totalResults": 210601,
+        "items": [
+            {
+                "datasetUrl": "/datasets/silasphoshoko/netflixprices",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "SilasPhoshoko",
+                "ownerUrl": "/silasphoshoko",
+                "ownerUserId": 13626228,
+                "creatorName": "SilasPhoshoko",
+                "creatorUrl": "/silasphoshoko",
+                "creatorUserId": 13626228,
+                "scriptsUrl": "/datasets/silasphoshoko/netflixprices/kernels",
+                "forumUrl": "/datasets/silasphoshoko/netflixprices/discussion",
+                "viewCount": 1,
+                "dateCreated": "2023-04-11T23:21:55.413Z",
+                "dateUpdated": "2023-04-11T23:21:55.413Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118966
+                },
+                "categories": [
+                    {
+                        "id": 2303,
+                        "name": "movies and tv shows",
+                        "fullPath": "subject \u003E arts and entertainment \u003E movies and tv shows",
+                        "listingUrl": "/datasets?group=public\u0026tagids=2303",
+                        "description": "Grab a bucket of popcorn and come analyze these movie ratings. The world must know which blockbuster film is the blockbuster film of all time!",
+                        "datasetCount": 8457,
+                        "competitionCount": 3,
+                        "notebookCount": 2016,
+                        "tagUrl": "/tags/film"
+                    }
+                ],
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 1716,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 1,
+                        "totalSize": 3044
+                    }
+                ],
+                "downloadUrl": "/datasets/silasphoshoko/netflixprices/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376644",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376644",
+                "usabilityRating": {
+                    "score": 0.11764706,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "23M2Hhf6O2Vz1jgmIzBi/versions/7DI535SrvfAhXOGRbJQb",
+                "datasetSlug": "netflixprices",
+                "rank": 1,
+                "datasource": {
+                    "datasetId": 3118966,
+                    "currentDatasetVersionId": 5376644,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "Netflix-prices",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-17.png-13626228/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/mateuszwrbel/syntchetic-patient-dataset",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "Mateusz Wr\u00F3bel",
+                "ownerUrl": "/mateuszwrbel",
+                "ownerUserId": 8748900,
+                "creatorName": "Mateusz Wr\u00F3bel",
+                "creatorUrl": "/mateuszwrbel",
+                "creatorUserId": 8748900,
+                "scriptsUrl": "/datasets/mateuszwrbel/syntchetic-patient-dataset/kernels",
+                "forumUrl": "/datasets/mateuszwrbel/syntchetic-patient-dataset/discussion",
+                "viewCount": 3,
+                "dateCreated": "2023-04-11T23:07:00.310Z",
+                "dateUpdated": "2023-04-11T23:07:00.310Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118949
+                },
+                "categories": [
+                    {
+                        "id": 14104,
+                        "name": "text",
+                        "fullPath": "data type \u003E text",
+                        "listingUrl": "/datasets?group=public\u0026tagids=14104",
+                        "datasetCount": 4037,
+                        "competitionCount": 64,
+                        "notebookCount": 3350,
+                        "tagUrl": "/tags/text-data",
+                        "modelCount": 76
+                    }
+                ],
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 662784,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 3,
+                        "totalSize": 1905104
+                    }
+                ],
+                "downloadUrl": "/datasets/mateuszwrbel/syntchetic-patient-dataset/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376564",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376564",
+                "usabilityRating": {
+                    "score": 0.29411766,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1,
+                    "subtitleScore": 1,
+                    "tagScore": 1
+                },
+                "firestorePath": "qavURcvY51SQlSZoCGyr/versions/lja6tpNv0lifxGogSra0",
+                "datasetSlug": "syntchetic-patient-dataset",
+                "rank": 2,
+                "datasource": {
+                    "datasetId": 3118949,
+                    "currentDatasetVersionId": 5376564,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "Syntchetic Patient Dataset",
+                    "overview": "Will be added later. Probably",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-59.png-8748900/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/jrheeaugrad/academicdata",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "jrheeaugrad",
+                "ownerUrl": "/jrheeaugrad",
+                "ownerUserId": 12066479,
+                "creatorName": "jrheeaugrad",
+                "creatorUrl": "/jrheeaugrad",
+                "creatorUserId": 12066479,
+                "scriptsUrl": "/datasets/jrheeaugrad/academicdata/kernels",
+                "forumUrl": "/datasets/jrheeaugrad/academicdata/discussion",
+                "dateCreated": "2023-04-11T23:05:31.913Z",
+                "dateUpdated": "2023-04-11T23:05:31.913Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118946
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 86843,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 1,
+                        "totalSize": 443631
+                    }
+                ],
+                "downloadUrl": "/datasets/jrheeaugrad/academicdata/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376554",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376554",
+                "usabilityRating": {
+                    "score": 0.11764706,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "2tHy0UxIpZHIVG8YgHsS/versions/wRZIAKp5ivgjQdDGVKwM",
+                "datasetSlug": "academicdata",
+                "rank": 3,
+                "datasource": {
+                    "datasetId": 3118946,
+                    "currentDatasetVersionId": 5376554,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "academicdata",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-47.png-12066479/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/muathalsatary/bitstampusd1",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/12161871-kg.jpeg",
+                "ownerName": "Muath alsattari",
+                "ownerUrl": "/muathalsatary",
+                "ownerUserId": 12161871,
+                "creatorName": "Muath alsattari",
+                "creatorUrl": "/muathalsatary",
+                "creatorUserId": 12161871,
+                "scriptsUrl": "/datasets/muathalsatary/bitstampusd1/kernels",
+                "forumUrl": "/datasets/muathalsatary/bitstampusd1/discussion",
+                "viewCount": 7,
+                "dateCreated": "2023-04-11T22:57:21.307Z",
+                "dateUpdated": "2023-04-11T22:57:21.307Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118937
+                },
+                "categories": [
+                    {
+                        "id": 16373,
+                        "name": "currencies and foreign exchange",
+                        "fullPath": "subject \u003E people and society \u003E business \u003E finance \u003E currencies and foreign exchange",
+                        "listingUrl": "/datasets?group=public\u0026tagids=16373",
+                        "datasetCount": 3448,
+                        "competitionCount": 1,
+                        "notebookCount": 1934,
+                        "tagUrl": "/tags/currencies-and-foreign-exchange"
+                    }
+                ],
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 49826681,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 1,
+                        "totalSize": 203757113
+                    }
+                ],
+                "downloadUrl": "/datasets/muathalsatary/bitstampusd1/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376517",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376517",
+                "usabilityRating": {
+                    "score": 0.125,
+                    "tagScore": 1
+                },
+                "firestorePath": "Qs2NknrbOc3gKDppohhS/versions/7m311c2VHJtms2OGe5nS",
+                "datasetSlug": "bitstampusd1",
+                "rank": 4,
+                "datasource": {
+                    "datasetId": 3118937,
+                    "currentDatasetVersionId": 5376517,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "bitcoin",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-29.png-12161871/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/vincetomasello/2023-san-diego-airbnb-data",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "Vince Tomasello",
+                "ownerUrl": "/vincetomasello",
+                "ownerUserId": 13920444,
+                "creatorName": "Vince Tomasello",
+                "creatorUrl": "/vincetomasello",
+                "creatorUserId": 13920444,
+                "scriptsUrl": "/datasets/vincetomasello/2023-san-diego-airbnb-data/kernels",
+                "forumUrl": "/datasets/vincetomasello/2023-san-diego-airbnb-data/discussion",
+                "viewCount": 5,
+                "dateCreated": "2023-04-11T22:44:56.587Z",
+                "dateUpdated": "2023-04-11T22:55:12.087Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118921
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 108955710,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 4,
+                        "totalSize": 483238922
+                    }
+                ],
+                "downloadUrl": "/datasets/vincetomasello/2023-san-diego-airbnb-data/download?datasetVersionNumber=2",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376510",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376510",
+                "usabilityRating": {
+                    "score": 0.11764706,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "yu70LOSfk0QNUiV0P6wc/versions/JZCc4rdoO9w6uhqBsusM",
+                "datasetSlug": "2023-san-diego-airbnb-data",
+                "rank": 5,
+                "datasource": {
+                    "datasetId": 3118921,
+                    "currentDatasetVersionId": 5376510,
+                    "currentDatasetVersionNumber": 2,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "2023 San Diego Airbnb Data",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-9.png-13920444/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/riadalmadani/earn-ea",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/3644695-kg.jpg",
+                "ownerName": "Riad",
+                "ownerUrl": "/riadalmadani",
+                "ownerUserId": 3644695,
+                "ownerTier": "EXPERT",
+                "creatorName": "Riad",
+                "creatorUrl": "/riadalmadani",
+                "creatorUserId": 3644695,
+                "scriptsUrl": "/datasets/riadalmadani/earn-ea/kernels",
+                "forumUrl": "/datasets/riadalmadani/earn-ea/discussion",
+                "dateCreated": "2023-04-11T22:14:50.227Z",
+                "dateUpdated": "2023-04-11T22:14:50.227Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118882
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 54903,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 1,
+                        "totalSize": 54828
+                    }
+                ],
+                "downloadUrl": "/datasets/riadalmadani/earn-ea/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376296",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376296",
+                "usabilityRating": {
+                    "score": 0.125,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "c2pu0Itd2TOMylZkWzzV/versions/EhAzuWa0WKJD3n970uG7",
+                "datasetSlug": "earn-ea",
+                "rank": 6,
+                "datasource": {
+                    "datasetId": 3118882,
+                    "currentDatasetVersionId": 5376296,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "earn_ea",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-50.png-3644695/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/kishoreharshankumar/new-datas",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "KISHORE HARSHAN KUMAR",
+                "ownerUrl": "/kishoreharshankumar",
+                "ownerUserId": 9946883,
+                "creatorName": "KISHORE HARSHAN KUMAR",
+                "creatorUrl": "/kishoreharshankumar",
+                "creatorUserId": 9946883,
+                "scriptsUrl": "/datasets/kishoreharshankumar/new-datas/kernels",
+                "forumUrl": "/datasets/kishoreharshankumar/new-datas/discussion",
+                "viewCount": 1,
+                "dateCreated": "2023-04-11T22:01:09.243Z",
+                "dateUpdated": "2023-04-11T22:01:09.243Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118845
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 572,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 2,
+                        "totalSize": 625
+                    }
+                ],
+                "downloadUrl": "/datasets/kishoreharshankumar/new-datas/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376191",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376191",
+                "usabilityRating": {
+                    "score": 0.11764706,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "SWtzbKPyuQ5PlwXfVlhg/versions/1mPBE5WQefZAujKk8RRO",
+                "datasetSlug": "new-datas",
+                "rank": 7,
+                "datasource": {
+                    "datasetId": 3118845,
+                    "currentDatasetVersionId": 5376191,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "new_datas",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-11.png-9946883/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/jamesthomasmather/checkpoint-data",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "James Thomas Mather",
+                "ownerUrl": "/jamesthomasmather",
+                "ownerUserId": 12499392,
+                "creatorName": "James Thomas Mather",
+                "creatorUrl": "/jamesthomasmather",
+                "creatorUserId": 12499392,
+                "scriptsUrl": "/datasets/jamesthomasmather/checkpoint-data/kernels",
+                "forumUrl": "/datasets/jamesthomasmather/checkpoint-data/discussion",
+                "viewCount": 1,
+                "dateCreated": "2023-04-11T21:58:51.410Z",
+                "dateUpdated": "2023-04-11T21:58:51.410Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118842
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 40188804,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 3,
+                        "totalSize": 43596869
+                    }
+                ],
+                "downloadUrl": "/datasets/jamesthomasmather/checkpoint-data/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5376179",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5376179",
+                "usabilityRating": {
+                    "score": 0.125,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "sAsrQlpdY5mQFczzhvGg/versions/TW9aFK85OHJA6tTRqywN",
+                "datasetSlug": "checkpoint-data",
+                "rank": 8,
+                "datasource": {
+                    "datasetId": 3118842,
+                    "currentDatasetVersionId": 5376179,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "checkpoint_data",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-52.png-12499392/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/samerhendawy/e-commerce-dataset",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "samer hendawy",
+                "ownerUrl": "/samerhendawy",
+                "ownerUserId": 9766524,
+                "creatorName": "samer hendawy",
+                "creatorUrl": "/samerhendawy",
+                "creatorUserId": 9766524,
+                "scriptsUrl": "/datasets/samerhendawy/e-commerce-dataset/kernels",
+                "forumUrl": "/datasets/samerhendawy/e-commerce-dataset/discussion",
+                "viewCount": 1,
+                "dateCreated": "2023-04-11T21:17:24.237Z",
+                "dateUpdated": "2023-04-11T21:17:24.237Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118722
+                },
+                "categories": [
+                    {
+                        "id": 11102,
+                        "name": "business",
+                        "fullPath": "subject \u003E people and society \u003E business",
+                        "listingUrl": "/datasets?group=public\u0026tagids=11102",
+                        "description": "Businesses are organizational entities that drive economic activity. Explore the inner workings of things like HR practices, product sales, and customer happiness in these competitions, kernels, and datasets.",
+                        "datasetCount": 42982,
+                        "competitionCount": 9,
+                        "notebookCount": 25182,
+                        "tagUrl": "/tags/business"
+                    }
+                ],
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 19153,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 1,
+                        "totalSize": 97603
+                    }
+                ],
+                "downloadUrl": "/datasets/samerhendawy/e-commerce-dataset/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375889",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375889",
+                "usabilityRating": {
+                    "score": 0.23529412,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1,
+                    "tagScore": 1
+                },
+                "firestorePath": "gBfrtR7KjR5Dqudu9cq0/versions/8Xy758YeaREivoi9GFtx",
+                "datasetSlug": "e-commerce-dataset",
+                "rank": 9,
+                "datasource": {
+                    "datasetId": 3118722,
+                    "currentDatasetVersionId": 5375889,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "E-commerce Dataset",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-40.png-9766524/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part5",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/6220676-kg.PNG",
+                "ownerName": "furu-nag",
+                "ownerUrl": "/kunihikofurugori",
+                "ownerUserId": 6220676,
+                "ownerTier": "MASTER",
+                "creatorName": "furu-nag",
+                "creatorUrl": "/kunihikofurugori",
+                "creatorUserId": 6220676,
+                "scriptsUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part5/kernels",
+                "forumUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part5/discussion",
+                "viewCount": 2,
+                "dateCreated": "2023-04-11T21:15:27.870Z",
+                "dateUpdated": "2023-04-11T21:15:27.870Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118718
+                },
+                "categories": [
+                    {
+                        "id": 16668,
+                        "name": "pre-trained model",
+                        "fullPath": "admin \u003E pre-trained model",
+                        "listingUrl": "/datasets?group=public\u0026tagids=16668",
+                        "description": "",
+                        "datasetCount": 66447,
+                        "notebookCount": 313,
+                        "tagUrl": "/tags/pre-trained-model",
+                        "modelCount": 1
+                    }
+                ],
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 18015790530,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 11263,
+                        "totalSize": 34614386441
+                    },
+                    {
+                        "fileType": "CSV",
+                        "count": 6,
+                        "totalSize": 70631517
+                    }
+                ],
+                "downloadUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part5/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375877",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375877",
+                "usabilityRating": {
+                    "score": 0.29411766,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1,
+                    "provenanceScore": 1,
+                    "tagScore": 1
+                },
+                "firestorePath": "EglIq2fokDl0io8qPQ85/versions/WxHMb39lO9khrhsQkKGt",
+                "datasetSlug": "bridclef2023pretrain2021-part5",
+                "rank": 10,
+                "datasource": {
+                    "datasetId": 3118718,
+                    "currentDatasetVersionId": 5375877,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "KERNEL_OUTPUT_FILE_SET",
+                    "diffType": "VERSIONED",
+                    "title": "[bridclef2023]pretrain2021_part5",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-13.png-6220676/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part4",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/6220676-kg.PNG",
+                "ownerName": "furu-nag",
+                "ownerUrl": "/kunihikofurugori",
+                "ownerUserId": 6220676,
+                "ownerTier": "MASTER",
+                "creatorName": "furu-nag",
+                "creatorUrl": "/kunihikofurugori",
+                "creatorUserId": 6220676,
+                "scriptsUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part4/kernels",
+                "forumUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part4/discussion",
+                "viewCount": 1,
+                "dateCreated": "2023-04-11T21:15:10.837Z",
+                "dateUpdated": "2023-04-11T21:15:10.837Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118715
+                },
+                "categories": [
+                    {
+                        "id": 16668,
+                        "name": "pre-trained model",
+                        "fullPath": "admin \u003E pre-trained model",
+                        "listingUrl": "/datasets?group=public\u0026tagids=16668",
+                        "description": "",
+                        "datasetCount": 66447,
+                        "notebookCount": 313,
+                        "tagUrl": "/tags/pre-trained-model",
+                        "modelCount": 1
+                    }
+                ],
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 18023403687,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 11265,
+                        "totalSize": 34620533289
+                    },
+                    {
+                        "fileType": "CSV",
+                        "count": 6,
+                        "totalSize": 70631517
+                    }
+                ],
+                "downloadUrl": "/datasets/kunihikofurugori/bridclef2023pretrain2021-part4/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375870",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375870",
+                "usabilityRating": {
+                    "score": 0.29411766,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1,
+                    "provenanceScore": 1,
+                    "tagScore": 1
+                },
+                "firestorePath": "TMFmvXmJcNM3URG2eJBZ/versions/H6cl0SrBx0O0upFELmaG",
+                "datasetSlug": "bridclef2023pretrain2021-part4",
+                "rank": 11,
+                "datasource": {
+                    "datasetId": 3118715,
+                    "currentDatasetVersionId": 5375870,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "KERNEL_OUTPUT_FILE_SET",
+                    "diffType": "VERSIONED",
+                    "title": "[bridclef2023]pretrain2021_part4",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-20.png-6220676/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/tianwin/pr-ca-energyprediction",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/8612906-kg.jpeg",
+                "ownerName": "TianWin",
+                "ownerUrl": "/tianwin",
+                "ownerUserId": 8612906,
+                "ownerTier": "CONTRIBUTOR",
+                "creatorName": "TianWin",
+                "creatorUrl": "/tianwin",
+                "creatorUserId": 8612906,
+                "scriptsUrl": "/datasets/tianwin/pr-ca-energyprediction/kernels",
+                "forumUrl": "/datasets/tianwin/pr-ca-energyprediction/discussion",
+                "viewCount": 1,
+                "dateCreated": "2023-04-11T21:03:54.913Z",
+                "dateUpdated": "2023-04-11T21:03:54.913Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118690
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 34061,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 1,
+                        "totalSize": 130871
+                    }
+                ],
+                "downloadUrl": "/datasets/tianwin/pr-ca-energyprediction/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375781",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375781",
+                "usabilityRating": {
+                    "score": 0.11764706,
+                    "columnDescriptionScore": 0,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "NDCoXY0ibGyoCOqJe2yV/versions/DTgfP2WGW4UeaJXme2lb",
+                "datasetSlug": "pr-ca-energyprediction",
+                "rank": 12,
+                "datasource": {
+                    "datasetId": 3118690,
+                    "currentDatasetVersionId": 5375781,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "pr_CA_energyPrediction",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-28.png-8612906/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/keremmandra/earthquaketr",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "Kerem Mandra",
+                "ownerUrl": "/keremmandra",
+                "ownerUserId": 14256694,
+                "creatorName": "Kerem Mandra",
+                "creatorUrl": "/keremmandra",
+                "creatorUserId": 14256694,
+                "scriptsUrl": "/datasets/keremmandra/earthquaketr/kernels",
+                "forumUrl": "/datasets/keremmandra/earthquaketr/discussion",
+                "viewCount": 2,
+                "downloadCount": 1,
+                "dateCreated": "2023-04-11T20:52:28.050Z",
+                "dateUpdated": "2023-04-11T20:52:28.050Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118664
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 748395,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 1,
+                        "totalSize": 750396
+                    }
+                ],
+                "downloadUrl": "/datasets/keremmandra/earthquaketr/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375704",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375704",
+                "usabilityRating": {
+                    "columnDescriptionScore": 0
+                },
+                "firestorePath": "iz1eGkfweyj9BKNSoGxw/versions/nkjEsjWQH2O53RS40m5Q",
+                "datasetSlug": "earthquaketr",
+                "rank": 13,
+                "datasource": {
+                    "datasetId": 3118664,
+                    "currentDatasetVersionId": 5375704,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "EarthquakeTR",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-93.png-14256694/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/sougatapramanick/happiness2018",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "Sougata Pramanick",
+                "ownerUrl": "/sougatapramanick",
+                "ownerUserId": 5907259,
+                "creatorName": "Sougata Pramanick",
+                "creatorUrl": "/sougatapramanick",
+                "creatorUserId": 5907259,
+                "scriptCount": 1,
+                "scriptsUrl": "/datasets/sougatapramanick/happiness2018/kernels",
+                "forumUrl": "/datasets/sougatapramanick/happiness2018/discussion",
+                "viewCount": 15,
+                "downloadCount": 1,
+                "dateCreated": "2023-04-11T20:49:33.353Z",
+                "dateUpdated": "2023-04-11T20:49:33.353Z",
+                "voteButton": {
+                    "totalVotes": 1,
+                    "canUpvote": true,
+                    "datasetId": 3118655
+                },
+                "categories": [
+                    {
+                        "id": 13201,
+                        "name": "exploratory data analysis",
+                        "fullPath": "technique \u003E exploratory data analysis",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13201",
+                        "datasetCount": 2580,
+                        "notebookCount": 27030,
+                        "tagUrl": "/tags/eda"
+                    },
+                    {
+                        "id": 13208,
+                        "name": "data visualization",
+                        "fullPath": "technique \u003E data visualization",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13208",
+                        "description": "The art of depicting data in a visual format. Using charts and graphs, it is easier to observe patterns, relationships, and outliers.",
+                        "datasetCount": 3452,
+                        "notebookCount": 30045,
+                        "tagUrl": "/tags/data-visualization"
+                    },
+                    {
+                        "id": 13215,
+                        "name": "data analytics",
+                        "fullPath": "technique \u003E data analytics",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13215",
+                        "datasetCount": 3261,
+                        "competitionCount": 8,
+                        "notebookCount": 9306,
+                        "tagUrl": "/tags/marketing-analytics"
+                    },
+                    {
+                        "id": 13405,
+                        "name": "linear regression",
+                        "fullPath": "task \u003E linear regression",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13405",
+                        "datasetCount": 503,
+                        "notebookCount": 4814,
+                        "tagUrl": "/tags/linear-regression"
+                    },
+                    {
+                        "id": 16639,
+                        "name": "python",
+                        "fullPath": "subject \u003E science and technology \u003E computer science \u003E programming \u003E python",
+                        "listingUrl": "/datasets?group=public\u0026tagids=16639",
+                        "description": "",
+                        "datasetCount": 616,
+                        "notebookCount": 9739,
+                        "tagUrl": "/tags/python"
+                    }
+                ],
+                "licenseName": "Other (specified in description)",
+                "licenseShortName": "Other",
+                "datasetSize": 4132,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 1,
+                        "totalSize": 8669
+                    }
+                ],
+                "downloadUrl": "/datasets/sougatapramanick/happiness2018/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375685",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375685",
+                "usabilityRating": {
+                    "score": 1,
+                    "columnDescriptionScore": 1,
+                    "coverImageScore": 1,
+                    "fileDescriptionScore": 1,
+                    "fileFormatScore": 1,
+                    "licenseScore": 1,
+                    "overviewScore": 1,
+                    "provenanceScore": 1,
+                    "publicKernelScore": 1,
+                    "subtitleScore": 1,
+                    "tagScore": 1,
+                    "updateFrequencyScore": 1
+                },
+                "firestorePath": "S7bURKdIDpmFrDdhczKV/versions/LlWaIsZpIO3U2j8XBKz9",
+                "datasetSlug": "happiness2018",
+                "rank": 14,
+                "datasource": {
+                    "datasetId": 3118655,
+                    "currentDatasetVersionId": 5375685,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "happiness-index-2018",
+                    "overview": "Analysing the happiness score in different countries based on several parameters",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/3118655/5375685/4c0e20c17344bedbbb79f2e3f74c5029/dataset-thumbnail.png?t=2023-04-11-21-03-02"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/mohamednagy19/modelall",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/7990005-gr.jpg",
+                "ownerName": "Mohamed Nagy",
+                "ownerUrl": "/mohamednagy19",
+                "ownerUserId": 7990005,
+                "creatorName": "Mohamed Nagy",
+                "creatorUrl": "/mohamednagy19",
+                "creatorUserId": 7990005,
+                "scriptsUrl": "/datasets/mohamednagy19/modelall/kernels",
+                "forumUrl": "/datasets/mohamednagy19/modelall/discussion",
+                "viewCount": 2,
+                "dateCreated": "2023-04-11T20:47:14.497Z",
+                "dateUpdated": "2023-04-11T20:47:14.497Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118649
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 227526348,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 1,
+                        "totalSize": 244683036
+                    }
+                ],
+                "downloadUrl": "/datasets/mohamednagy19/modelall/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375669",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375669",
+                "usabilityRating": {
+                    "score": 0.125,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "CHh8TuJj27Jwfw09NEBa/versions/p0BAOh6StEh4UnWvLIm8",
+                "datasetSlug": "modelall",
+                "rank": 15,
+                "datasource": {
+                    "datasetId": 3118649,
+                    "currentDatasetVersionId": 5375669,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "MODELALL",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-22.png-7990005/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/mrhainguyen/employee-names-salaries-and-position-titles",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/12777665-kg.jpg",
+                "ownerName": "Thanh Hai Nguyen",
+                "ownerUrl": "/mrhainguyen",
+                "ownerUserId": 12777665,
+                "creatorName": "Thanh Hai Nguyen",
+                "creatorUrl": "/mrhainguyen",
+                "creatorUserId": 12777665,
+                "scriptCount": 1,
+                "scriptsUrl": "/datasets/mrhainguyen/employee-names-salaries-and-position-titles/kernels",
+                "forumUrl": "/datasets/mrhainguyen/employee-names-salaries-and-position-titles/discussion",
+                "viewCount": 14,
+                "dateCreated": "2023-04-11T20:41:21.510Z",
+                "dateUpdated": "2023-04-11T20:41:21.510Z",
+                "voteButton": {
+                    "totalVotes": 1,
+                    "canUpvote": true,
+                    "datasetId": 3118642
+                },
+                "categories": [
+                    {
+                        "id": 3022,
+                        "name": "united states",
+                        "fullPath": "geography and places \u003E north america \u003E united states",
+                        "listingUrl": "/datasets?group=public\u0026tagids=3022",
+                        "description": "The top datasets and kernels in this tag are about mass shootings, AirBnB, homelessness, and witchcraft. That about sums it up.",
+                        "datasetCount": 1347,
+                        "notebookCount": 441,
+                        "tagUrl": "/tags/united-states"
+                    },
+                    {
+                        "id": 11108,
+                        "name": "finance",
+                        "fullPath": "subject \u003E people and society \u003E business \u003E finance",
+                        "listingUrl": "/datasets?group=public\u0026tagids=11108",
+                        "description": "The finance tag covers datasets and kernels about money and investing. If you need to test some new cryptocurrency investment strategies or ward off those pesky credit card fraud enthusiasts, then you\u0027ve come to the right place.",
+                        "datasetCount": 5450,
+                        "competitionCount": 10,
+                        "notebookCount": 3770,
+                        "tagUrl": "/tags/finance"
+                    },
+                    {
+                        "id": 13102,
+                        "name": "beginner",
+                        "fullPath": "audience \u003E beginner",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13102",
+                        "description": "New to data science? Explore tips, tricks, and beginner friendly work from other Kagglers.",
+                        "datasetCount": 4434,
+                        "competitionCount": 4439,
+                        "notebookCount": 36656,
+                        "tagUrl": "/tags/beginner"
+                    },
+                    {
+                        "id": 13208,
+                        "name": "data visualization",
+                        "fullPath": "technique \u003E data visualization",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13208",
+                        "description": "The art of depicting data in a visual format. Using charts and graphs, it is easier to observe patterns, relationships, and outliers.",
+                        "datasetCount": 3452,
+                        "notebookCount": 30045,
+                        "tagUrl": "/tags/data-visualization"
+                    },
+                    {
+                        "id": 13215,
+                        "name": "data analytics",
+                        "fullPath": "technique \u003E data analytics",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13215",
+                        "datasetCount": 3261,
+                        "competitionCount": 8,
+                        "notebookCount": 9306,
+                        "tagUrl": "/tags/marketing-analytics"
+                    }
+                ],
+                "licenseName": "U.S. Government Works",
+                "licenseShortName": "Other",
+                "datasetSize": 454298,
+                "commonFileTypes": [
+                    {
+                        "fileType": "CSV",
+                        "count": 1,
+                        "totalSize": 2493628
+                    }
+                ],
+                "downloadUrl": "/datasets/mrhainguyen/employee-names-salaries-and-position-titles/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375639",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375639",
+                "usabilityRating": {
+                    "score": 0.9411765,
+                    "columnDescriptionScore": 1,
+                    "fileDescriptionScore": 1,
+                    "fileFormatScore": 1,
+                    "licenseScore": 1,
+                    "overviewScore": 1,
+                    "provenanceScore": 1,
+                    "publicKernelScore": 1,
+                    "subtitleScore": 1,
+                    "tagScore": 1,
+                    "updateFrequencyScore": 1
+                },
+                "firestorePath": "0NkPzDRerLyqgDbKOl9l/versions/6feUoqftMRx1io2VvexQ",
+                "datasetSlug": "employee-names-salaries-and-position-titles",
+                "rank": 16,
+                "datasource": {
+                    "datasetId": 3118642,
+                    "currentDatasetVersionId": 5375639,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "Employee Names, Salaries, and Position Titles",
+                    "overview": "City of Chicago Active Employees Dataset",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-30.png-12777665/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/xurshidbekbro/xurshidbekn",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+                "ownerName": "xurshidbek bro",
+                "ownerUrl": "/xurshidbekbro",
+                "ownerUserId": 14298132,
+                "creatorName": "xurshidbek bro",
+                "creatorUrl": "/xurshidbekbro",
+                "creatorUserId": 14298132,
+                "scriptsUrl": "/datasets/xurshidbekbro/xurshidbekn/kernels",
+                "forumUrl": "/datasets/xurshidbekbro/xurshidbekn/discussion",
+                "downloadCount": 1,
+                "dateCreated": "2023-04-11T20:35:02.293Z",
+                "dateUpdated": "2023-04-11T20:35:02.293Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118613
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 38435,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 1,
+                        "totalSize": 38721
+                    }
+                ],
+                "downloadUrl": "/datasets/xurshidbekbro/xurshidbekn/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375582",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375582",
+                "usabilityRating": {
+                    "score": 0.125,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "fIqZe0pxQ06UPfxO049x/versions/gyKu4k25aSsXegwKzweF",
+                "datasetSlug": "xurshidbekn",
+                "rank": 17,
+                "datasource": {
+                    "datasetId": 3118613,
+                    "currentDatasetVersionId": 5375582,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "xurshidbekn",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-31.png-14298132/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/ihelon/football-player-segmentation",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/1313949-kg.jpg",
+                "ownerName": "Yaroslav Isaienkov",
+                "ownerUrl": "/ihelon",
+                "ownerUserId": 1313949,
+                "ownerTier": "GRANDMASTER",
+                "creatorName": "Yaroslav Isaienkov",
+                "creatorUrl": "/ihelon",
+                "creatorUserId": 1313949,
+                "scriptCount": 1,
+                "scriptsUrl": "/datasets/ihelon/football-player-segmentation/kernels",
+                "forumUrl": "/datasets/ihelon/football-player-segmentation/discussion",
+                "viewCount": 32,
+                "dateCreated": "2023-04-11T19:54:46.197Z",
+                "dateUpdated": "2023-04-11T19:54:46.197Z",
+                "voteButton": {
+                    "totalVotes": 3,
+                    "canUpvote": true,
+                    "datasetId": 3118528
+                },
+                "categories": [
+                    {
+                        "id": 13207,
+                        "name": "computer vision",
+                        "fullPath": "technique \u003E computer vision",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13207",
+                        "description": "Teaching a machine to interpret real-world images and videos. Applications include detecting objects, capturing motion, and restoring images.",
+                        "datasetCount": 2402,
+                        "competitionCount": 20,
+                        "notebookCount": 3996,
+                        "tagUrl": "/tags/image-processing"
+                    },
+                    {
+                        "id": 13208,
+                        "name": "data visualization",
+                        "fullPath": "technique \u003E data visualization",
+                        "listingUrl": "/datasets?group=public\u0026tagids=13208",
+                        "description": "The art of depicting data in a visual format. Using charts and graphs, it is easier to observe patterns, relationships, and outliers.",
+                        "datasetCount": 3452,
+                        "notebookCount": 30045,
+                        "tagUrl": "/tags/data-visualization"
+                    },
+                    {
+                        "id": 14102,
+                        "name": "image",
+                        "fullPath": "data type \u003E image",
+                        "listingUrl": "/datasets?group=public\u0026tagids=14102",
+                        "datasetCount": 5207,
+                        "competitionCount": 188,
+                        "notebookCount": 4917,
+                        "tagUrl": "/tags/image-data",
+                        "modelCount": 187
+                    },
+                    {
+                        "id": 16717,
+                        "name": "image segmentation",
+                        "fullPath": "task \u003E image-segmentation",
+                        "listingUrl": "/datasets?group=public\u0026tagids=16717",
+                        "description": "",
+                        "datasetCount": 97,
+                        "competitionCount": 1,
+                        "notebookCount": 75,
+                        "tagUrl": "/tags/image-segmentation",
+                        "modelCount": 17
+                    }
+                ],
+                "licenseName": "CC0: Public Domain",
+                "licenseShortName": "CC0 1.0",
+                "datasetSize": 332650252,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 512,
+                        "totalSize": 327587594
+                    },
+                    {
+                        "fileType": "JSON",
+                        "count": 1,
+                        "totalSize": 18691334
+                    }
+                ],
+                "downloadUrl": "/datasets/ihelon/football-player-segmentation/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375321",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375321",
+                "usabilityRating": {
+                    "score": 0.875,
+                    "coverImageScore": 1,
+                    "fileFormatScore": 1,
+                    "licenseScore": 1,
+                    "overviewScore": 1,
+                    "provenanceScore": 1,
+                    "publicKernelScore": 1,
+                    "subtitleScore": 1,
+                    "tagScore": 1,
+                    "updateFrequencyScore": 1
+                },
+                "firestorePath": "aSlIhxC3XWbZsYAOnbzP/versions/ZCgApWfl8reihUUM8C7w",
+                "datasetSlug": "football-player-segmentation",
+                "rank": 18,
+                "datasource": {
+                    "datasetId": 3118528,
+                    "currentDatasetVersionId": 5375321,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "\u26BD Football Player Segmentation \u26BD",
+                    "overview": "Segment football players in the match",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/3118528/5375321/f295a25ae3b9b44be036dcee85a4fb65/dataset-thumbnail.png?t=2023-04-11-19-57-35"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/jubinjohnkj/visual-representation-of-olympic-medals",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/9593505-kg.jpg",
+                "ownerName": "Jubin John",
+                "ownerUrl": "/jubinjohnkj",
+                "ownerUserId": 9593505,
+                "creatorName": "Jubin John",
+                "creatorUrl": "/jubinjohnkj",
+                "creatorUserId": 9593505,
+                "scriptsUrl": "/datasets/jubinjohnkj/visual-representation-of-olympic-medals/kernels",
+                "forumUrl": "/datasets/jubinjohnkj/visual-representation-of-olympic-medals/discussion",
+                "dateCreated": "2023-04-11T19:54:15.807Z",
+                "dateUpdated": "2023-04-11T19:54:15.807Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118524
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 85866,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 2,
+                        "totalSize": 247060
+                    }
+                ],
+                "downloadUrl": "/datasets/jubinjohnkj/visual-representation-of-olympic-medals/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375316",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375316",
+                "usabilityRating": {
+                    "score": 0.125,
+                    "fileFormatScore": 1
+                },
+                "firestorePath": "Zs46j1OkmRRUT5lahcLT/versions/KwYTIl9HuMdciBuHvJtv",
+                "datasetSlug": "visual-representation-of-olympic-medals",
+                "rank": 19,
+                "datasource": {
+                    "datasetId": 3118524,
+                    "currentDatasetVersionId": 5375316,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "Visual Representation of Olympic Medals",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-52.png-9593505/dataset-thumbnail.png"
+                }
+            },
+            {
+                "datasetUrl": "/datasets/jubinjohnkj/olympic-medals-2022",
+                "ownerAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/9593505-kg.jpg",
+                "ownerName": "Jubin John",
+                "ownerUrl": "/jubinjohnkj",
+                "ownerUserId": 9593505,
+                "creatorName": "Jubin John",
+                "creatorUrl": "/jubinjohnkj",
+                "creatorUserId": 9593505,
+                "scriptsUrl": "/datasets/jubinjohnkj/olympic-medals-2022/kernels",
+                "forumUrl": "/datasets/jubinjohnkj/olympic-medals-2022/discussion",
+                "viewCount": 3,
+                "dateCreated": "2023-04-11T19:40:29.980Z",
+                "dateUpdated": "2023-04-11T19:40:29.980Z",
+                "voteButton": {
+                    "canUpvote": true,
+                    "datasetId": 3118490
+                },
+                "licenseName": "Unknown",
+                "licenseShortName": "Other",
+                "datasetSize": 7248,
+                "commonFileTypes": [
+                    {
+                        "fileType": "OTHER",
+                        "count": 1,
+                        "totalSize": 9548
+                    }
+                ],
+                "downloadUrl": "/datasets/jubinjohnkj/olympic-medals-2022/download?datasetVersionNumber=1",
+                "newKernelNotebookUrl": "/code/new?datasetVersionId=5375232",
+                "newKernelScriptUrl": "/code/scripts/new?datasetVersionId=5375232",
+                "usabilityRating": {
+                    "score": 0.23529412,
+                    "columnDescriptionScore": 0,
+                    "coverImageScore": 1,
+                    "overviewScore": 1
+                },
+                "firestorePath": "aHAzYbFtIVuLsQlpa09N/versions/Pu8siEahflSjzCBvl4K7",
+                "datasetSlug": "olympic-medals-2022",
+                "rank": 20,
+                "datasource": {
+                    "datasetId": 3118490,
+                    "currentDatasetVersionId": 5375232,
+                    "currentDatasetVersionNumber": 1,
+                    "type": "FILESET",
+                    "diffType": "VERSIONED",
+                    "title": "Olympic Medals 2022",
+                    "overview": "",
+                    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-datasets-images/3118490/5375232/6c2d8e83037b15c5b6eafd60e439783b/dataset-thumbnail.png?t=2023-04-11-19-48-13"
+                }
+            }
+        ]
+    },
+    "hasMore": true
+}

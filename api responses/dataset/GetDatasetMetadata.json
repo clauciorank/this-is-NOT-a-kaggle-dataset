@@ -1,0 +1,263 @@
+{
+    "collaboratorList": {
+        "owner": {
+            "userId": 2498226,
+            "profileUrl": "/erdemtaha",
+            "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/2498226-kg.png",
+            "name": "Erdem Taha",
+            "slug": "erdemtaha",
+            "userTier": "CONTRIBUTOR",
+            "type": "OWNER"
+        }
+    },
+    "currentVersionNumber": 1,
+    "databundleDiffType": "VERSIONED",
+    "dataCoverageAttribute": {},
+    "datasetCreationTimestamp": "2023-03-22T07:57:00.013Z",
+    "datasetId": 3032092,
+    "datasetVersionId": 5212576,
+    "expectedUpdateFrequency": {
+        "updateFrequency": "annually"
+    },
+    "isEditable": true,
+    "lastDataUpdatedTimestamp": "2023-03-22T07:57:00.013Z",
+    "licenseGroups": [
+        {
+            "id": 1,
+            "name": "Creative Commons",
+            "licenses": [
+                {
+                    "id": 1,
+                    "name": "CC0: Public Domain",
+                    "description": "CC0: Public Domain \u003Ca href=\u0022https://creativecommons.org/publicdomain/zero/1.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "displaySequence": 1
+                },
+                {
+                    "id": 3,
+                    "name": "CC BY-NC-SA 4.0",
+                    "description": "CC BY-NC-SA 4.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by-nc-sa/4.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                    "displaySequence": 2
+                },
+                {
+                    "id": 8,
+                    "name": "CC BY-SA 4.0",
+                    "description": "CC BY-SA 4.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by-sa/4.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                    "displaySequence": 3
+                },
+                {
+                    "id": 10,
+                    "name": "CC BY-SA 3.0",
+                    "description": "CC BY-SA 3.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by-sa/3.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+                    "displaySequence": 4
+                },
+                {
+                    "id": 13,
+                    "name": "Attribution 4.0 International (CC BY 4.0)",
+                    "description": "CC-BY 4.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by/4.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by/4.0/",
+                    "displaySequence": 5
+                },
+                {
+                    "id": 14,
+                    "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+                    "description": "CC-BY-NC 4.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by-nc/4.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+                    "displaySequence": 6
+                },
+                {
+                    "id": 16,
+                    "name": "Attribution 3.0 Unported (CC BY 3.0)",
+                    "description": "CC BY 3.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by/3.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by/3.0/",
+                    "displaySequence": 7
+                },
+                {
+                    "id": 17,
+                    "name": "Attribution 3.0 IGO (CC BY 3.0 IGO)",
+                    "description": "CC BY 3.0 IGO \u003Ca href=\u0022https://creativecommons.org/licenses/by/3.0/igo/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by/3.0/igo/",
+                    "displaySequence": 8
+                },
+                {
+                    "id": 19,
+                    "name": "Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)",
+                    "description": "CC BY-NC-SA 3.0 IGO \u003Ca href=\u0022https://creativecommons.org/licenses/by-nc-sa/3.0/igo/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+                    "displaySequence": 9
+                },
+                {
+                    "id": 22,
+                    "name": "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+                    "description": "CC BY-ND 4.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by-nd/4.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+                    "displaySequence": 10
+                },
+                {
+                    "id": 23,
+                    "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+                    "description": "CC BY-NC-ND 4.0 \u003Ca href=\u0022https://creativecommons.org/licenses/by-nc-nd/4.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "displaySequence": 11
+                }
+            ],
+            "displaySequence": 1
+        },
+        {
+            "id": 2,
+            "name": "GPL",
+            "licenses": [
+                {
+                    "id": 9,
+                    "name": "GPL 2",
+                    "description": "GPL 2 \u003Ca href=\u0022http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+                    "displaySequence": 1
+                },
+                {
+                    "id": 25,
+                    "name": "GNU Lesser General Public License 3.0",
+                    "description": "LGPL 3.0 \u003Ca href=\u0022http://www.gnu.org/licenses/lgpl-3.0.html\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "http://www.gnu.org/licenses/lgpl-3.0.html",
+                    "displaySequence": 2
+                },
+                {
+                    "id": 26,
+                    "name": "GNU Affero General Public License 3.0",
+                    "description": "AGPL 3.0 \u003Ca href=\u0022http://www.gnu.org/licenses/agpl-3.0.html\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "http://www.gnu.org/licenses/agpl-3.0.html",
+                    "displaySequence": 3
+                },
+                {
+                    "id": 27,
+                    "name": "GNU Free Documentation License 1.3",
+                    "description": "FDL 1.3 \u003Ca href=\u0022http://www.gnu.org/licenses/fdl-1.3.html\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "http://www.gnu.org/licenses/fdl-1.3.html",
+                    "displaySequence": 4
+                }
+            ],
+            "displaySequence": 2
+        },
+        {
+            "id": 3,
+            "name": "Open Data Commons",
+            "licenses": [
+                {
+                    "id": 5,
+                    "name": "Database: Open Database, Contents: Database Contents",
+                    "description": "Database: Open Database \u003Ca href=\u0022http://opendatacommons.org/licenses/odbl/1.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E, Contents: Database Contents \u003Ca href=\u0022http://opendatacommons.org/licenses/dbcl/1.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "http://opendatacommons.org/licenses/dbcl/1.0/",
+                    "displaySequence": 1
+                },
+                {
+                    "id": 6,
+                    "name": "Database: Open Database, Contents: \u00A9 Original Authors",
+                    "description": "Database: Open Database \u003Ca href=\u0022http://opendatacommons.org/licenses/odbl/1.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E, Contents: \u00A9 Original Authors",
+                    "url": "http://opendatacommons.org/licenses/odbl/1.0/",
+                    "displaySequence": 2
+                },
+                {
+                    "id": 15,
+                    "name": "ODC Public Domain Dedication and Licence (PDDL)",
+                    "description": "PDDL  \u003Ca href=\u0022https://opendatacommons.org/licenses/pddl/1.0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://opendatacommons.org/licenses/pddl/1.0/",
+                    "displaySequence": 3
+                },
+                {
+                    "id": 24,
+                    "name": "ODC Attribution License (ODC-By)",
+                    "description": "ODC-BY 1.0 \u003Ca href=\u0022https://opendatacommons.org/licenses/by/1-0/index.html\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://opendatacommons.org/licenses/by/1-0/index.html",
+                    "displaySequence": 4
+                }
+            ],
+            "displaySequence": 3
+        },
+        {
+            "id": 6,
+            "name": "Community Data License",
+            "licenses": [
+                {
+                    "id": 20,
+                    "name": "Community Data License Agreement - Permissive - Version 1.0",
+                    "description": "CDLA Permissive 1.0 \u003Ca href=\u0022https://cdla.io/permissive-1-0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://cdla.io/permissive-1-0/",
+                    "displaySequence": 1
+                },
+                {
+                    "id": 21,
+                    "name": "Community Data License Agreement - Sharing - Version 1.0",
+                    "description": "CDLA Sharing 1.0 \u003Ca href=\u0022https://cdla.io/sharing-1-0/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://cdla.io/sharing-1-0/",
+                    "displaySequence": 2
+                }
+            ],
+            "displaySequence": 4
+        },
+        {
+            "id": 4,
+            "name": "Special",
+            "licenses": [
+                {
+                    "id": 7,
+                    "name": "World Bank Dataset Terms of Use",
+                    "description": "World Bank Dataset Terms of Use \u003Ca href=\u0022https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+                    "displaySequence": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Reddit API Terms",
+                    "description": "Reddit API Terms \u003Ca href=\u0022https://www.reddit.com/wiki/api\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://www.reddit.com/wiki/api",
+                    "displaySequence": 2
+                },
+                {
+                    "id": 18,
+                    "name": "U.S. Government Works",
+                    "description": "U.S. Government Works \u003Ca href=\u0022https://www.usa.gov/government-works/\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://www.usa.gov/government-works/",
+                    "displaySequence": 3
+                },
+                {
+                    "id": 28,
+                    "name": "EU ODP Legal Notice",
+                    "description": "EU ODP Legal Notice \u003Ca href=\u0022https://ec.europa.eu/info/legal-notice_en\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022fa fa-info-circle\u0022/\u003E\u003C/a\u003E",
+                    "url": "https://ec.europa.eu/info/legal-notice_en",
+                    "displaySequence": 4
+                }
+            ],
+            "displaySequence": 5
+        },
+        {
+            "id": 5,
+            "name": "Other",
+            "licenses": [
+                {
+                    "id": 11,
+                    "name": "Data files \u00A9 Original Authors",
+                    "description": "Data files \u00A9 Original Authors",
+                    "displaySequence": 1
+                },
+                {
+                    "id": 12,
+                    "name": "Other (specified in description)",
+                    "description": "Other (specified in description)",
+                    "displaySequence": 4
+                },
+                {
+                    "id": 4,
+                    "name": "Unknown",
+                    "description": "Unknown",
+                    "displaySequence": 5
+                }
+            ],
+            "displaySequence": 6
+        }
+    ],
+    "licenseId": 12,
+    "userSpecifiedSources": ".."
+}
